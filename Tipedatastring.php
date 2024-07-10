@@ -18,7 +18,7 @@ echo "Nowdoc:\n$nowdoc\n";
 echo "Heredoc:\n$heredoc\n";
 
 // double quote
-
+j
 // echo 'Nama : ';
 // echo 'Nendra saktiawan';
 // echo "<br>";
