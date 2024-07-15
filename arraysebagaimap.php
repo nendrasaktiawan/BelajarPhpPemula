@@ -4,7 +4,7 @@
 3.Secara default Array akan menggunakan index (number) sebagai key dan value nya kita bisa bebas memasukkan data ke dalam Array
 4.Namun jika kita ingin, kita juga bisa mengubah index nya tidak harus menggunakan number, bisa gunakan tipe data lain, seperti string misal nya
 5.Hal tersebut terlihat seperti Map di bahasa pemrograman lain-->
-
+<!--  -->
 <?php
 $agung = array(
     "id" => "agung",
